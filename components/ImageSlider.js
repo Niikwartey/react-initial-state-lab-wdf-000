@@ -1,6 +1,6 @@
 const React = require('react');
 
-class ImageSlider extends React.component {
+class ImageSlider extends React.Component {
   constructor() {
     super();
     this.state = {currentSlideIndex: 0}
